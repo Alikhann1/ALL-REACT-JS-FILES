@@ -1,0 +1,31 @@
+.main-Comtainer{
+  width: 550px;
+  height: 160px;
+  background-color: rgb(2, 2, 2);
+  position: absolute;
+  top: 37%;
+  left: 50%;
+  transform: translate(-50% ,-50%);
+  border-radius:30px;
+
+}
+.main-Comtainerr{
+  width: 550px;
+  height: 160px;
+  background-color: rgb(2, 2, 2);
+  position: absolute;
+  top: 63%;
+  left: 50%;
+  transform: translate(-50% ,-50%);
+  border-radius:30px;
+
+}
+.clock-Text{
+padding: auto;
+margin: 6%;
+font-size: 60px;
+align-items: center;
+text-align: center;
+justify-content: center;
+color: white;
+}
